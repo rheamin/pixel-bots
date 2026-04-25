@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQEAAQAAABQBQAAVVUAAFVVAABQBQAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "hammerDummy"
+    },
+    "image2": {
+        "data": "hwQQAAwAAAAAAABmZgYAAAAA8GZm9gAAAAD/////AAAAAE9E9P8AAAAAT0T//wAAAAD///8PAAAgAv///wAAACIiZmYGAAAAIiJmZgYAAAAgAv///wAAAAAA////DwAAAABPRP//AAAAAE9E9P8AAAAA/////wAAAADwZmb2AAAAAABmZgYAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "hammerBotDown"
+    },
+    "image3": {
+        "data": "hwQQAAwAAAAAZmYGAAAAAPBmZvYAAAAA/////wAAAABPRPT/AAAAAE9E//8AAAAA////DwAAAAD///8AIAIAAP//ZmYiIgAA//9mZiIiAAD///8AIAIAAP///w8AAAAAT0T//wAAAABPRPT/AAAAAP////8AAAAA8GZm9gAAAAAAZmYGAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
