@@ -2,19 +2,14 @@
     "name": "Pixel Bots",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "sprite-fx": "github:kohanmathers/makecodespritefx#v1.3.0",
-        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0",
-        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1"
+        "device": "*"
     },
     "files": [
         "main.ts",
         "README.md",
         "assets.json",
         "images.g.jres",
-        "images.g.ts",
-        "tilemap.g.jres",
-        "tilemap.g.ts"
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
