@@ -5,14 +5,14 @@
         "displayName": "hammerDummy"
     },
     "image2": {
-        "data": "hwQQAAwAAAAAAABmZgYAAAAA8GZm9gAAAAD/////AAAAAE9E9P8AAAAAT0T//wAAAAD///8PAAAgAv///wAAACIiZmYGAAAAIiJmZgYAAAAgAv///wAAAAAA////DwAAAABPRP//AAAAAE9E9P8AAAAA/////wAAAADwZmb2AAAAAABmZgYAAA==",
+        "data": "hwQMABAAAAAAAAAgAgAAAAAAACIiAAAAAAAAIiIAAAAAAAAgAgAAAAD//2/2//8A8E/0b/ZP9A9mT/Rv9k/0ZmZP9G/2T/RmZk//b/b/9GZm//8P8P//Zmb//wAA//9m8P8PAADw/w8=",
         "mimeType": "image/x-mkcd-f4",
-        "displayName": "hammerBotDown"
+        "displayName": "hammerBot"
     },
     "image3": {
-        "data": "hwQQAAwAAAAAZmYGAAAAAPBmZvYAAAAA/////wAAAABPRPT/AAAAAE9E//8AAAAA////DwAAAAD///8AIAIAAP//ZmYiIgAA//9mZiIiAAD///8AIAIAAP///w8AAAAAT0T//wAAAABPRPT/AAAAAP////8AAAAA8GZm9gAAAAAAZmYGAAAAAA==",
+        "data": "hwQMABAAAAAA////////APBP9P//T/QPZk/0//9P9GZmT/T//0/0ZmZP/2/2//RmZv//b/b//2Zm//9gBv//ZvD/D2AG8P8PAAAAIAIAAAAAAAAiIgAAAAAAACIiAAAAAAAAIAIAAAA=",
         "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage"
+        "displayName": "hammerBotAttack"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
